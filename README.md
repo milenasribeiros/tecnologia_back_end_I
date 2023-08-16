@@ -12,22 +12,22 @@ O sistema de Aluno Online inclui as seguintes funcionalidades:
 4. Autenticação e autorização para diferentes papéis (aluno, professor e secretaria)
    
 ## Tecnologias Utilizadas
-. Linguagem Java
-. Spring Framework
-. Banco de Dados PostgreSQL
-. Postman (para testar requisições HTTP)
-.Outras tecnologias comuns do ecossistema Spring (Spring Boot, Spring Data, Spring Security, etc.)
+1. Linguagem Java
+2. Spring Framework
+3. Banco de Dados PostgreSQL
+4. Postman (para testar requisições HTTP)
+5.Outras tecnologias comuns do ecossistema Spring (Spring Boot, Spring Data, Spring Security, etc.)
 
 ## Contribuições
 
 Este projeto foi desenvolvido como parte de um curso em sala de aula. Contribuições e melhorias são bem-vindas!
 Caso queira contribuir, siga as etapas a seguir:
 
-Faça um fork deste repositório.
-Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
-Faça commit das suas alterações (git commit -m 'Adiciona nova feature').
-Faça push para a branch (git push origin feature/nova-feature).
-Abra um Pull Request.
+1. Faça um fork deste repositório.
+2. Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
+3. Faça commit das suas alterações (git commit -m 'Adiciona nova feature').
+4. Faça push para a branch (git push origin feature/nova-feature).
+5. Abra um Pull Request.
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT.
